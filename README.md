@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**nareshkumaralaria/nareshkumaralaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Full-Stack Developer in india.
 
-Here are some ideas to get you started:
+##### NOW
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✨ Crafted last [EpiStocker](https://epistocker.netlify.app/) website
+
+##### BIO
+
+- 👨‍🎓 I’m currently a **student of B.Tech(CSE) final year in [IIIT UNA](https://iiitu.ac.in/)**
+- 🌱 I’m currently learning **Web 3.0**
+- ⚙️ I use daily: `React`, `JavaScript`, `Html/Html5`, `css/css3`, `NodeJS`, `Figma`, `C++`, `Vs Code` 
+- 🏢 Learning all about **MERN Stack**
+- 💬 Ask me about **Web Design, Development, UI/UX Design**
+- 📫 How to reach me: [linkedin.com/nareshkumaralaria](https://www.linkedin.com/in/nareshkumaralaria/)
+- ⚡ Fun hobbies : 3D modeling, Video editing
+
+
+##### RECENT PROJECTS
+
+- [EpiStocker](https://github.com/nareshkumaralaria/EpiStocker-Stocks-chart) website
+- [Portfolio](https://github.com/nareshkumaralaria/My-Portfolio) website
