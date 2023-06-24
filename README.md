@@ -4,7 +4,7 @@
 
 ##### NOW
 
-- ✨ Crafted last [EpiStocker](https://epistocker.netlify.app/) website
+- ✨ Crafted last [Pokedex web app](https://pokedex-flurn.netlify.app/) website
 
 ##### BIO
 
@@ -19,5 +19,6 @@
 
 ##### RECENT PROJECTS
 
+
+- [Inventory Management System](https://github.com/nareshkumaralaria/book-inventory-management)
 - [EpiStocker](https://github.com/nareshkumaralaria/EpiStocker-Stocks-chart) website
-- [Portfolio](https://github.com/nareshkumaralaria/My-Portfolio) website
